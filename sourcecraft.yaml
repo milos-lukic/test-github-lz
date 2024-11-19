@@ -1,1 +1,5 @@
-name: test-papaya-hello
+name: miloslu-python-hello
+version: 1.0
+base: ubuntu@22.04
+platforms:
+    amd64:
